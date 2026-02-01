@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/finance-header.svg" alt="Finance Tracker" /> -->
+    <img src="assets/finance-header.svg" alt="Finance Tracker" />
 </p>
 
 # 💰 Finance Tracker
